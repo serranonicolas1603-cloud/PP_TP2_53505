@@ -14,7 +14,7 @@ Entre los conceptos técnicos implementados en este sistema se destacan:
 * Uso de clases abstractas e implementación de interfaces.
 * Manejo y propagación de excepciones (`try-catch`, `throws`, y excepciones personalizadas).
 ## Tecnologías y Herramientas
-* **Lenguaje:** Java (JDK [Tu versión, ej. 17])
+* **Lenguaje:** Java (JDK 2026.1)
 * **Entorno de Desarrollo (IDE):** IntelliJ IDEA
 * **Control de Versiones:** Git & GitHub
 
