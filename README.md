@@ -36,4 +36,4 @@ Entre los conceptos técnicos implementados en este sistema se destacan:
 5. Ejecutar la clase principal del sistema.
 
 ## Autor
-* **Nicolás Josué Serrano** - [Enlace a tu perfil de GitHub o LinkedIn]
+* **Nicolás Josué Serrano** - https://github.com/serranonicolas1603-cloud
